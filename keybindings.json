@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaults
+[
+    {   
+        "key": "alt+up",
+        "command": "cursorLineStart",
+    },
+    {   
+        "key": "alt+down",
+        "command": "cursorLineEnd"
+    },
+    {   
+        "key": "shift+alt+up",
+        "command": "cursorLineStartSelect"
+    },
+    {   
+        "key": "shift+alt+down",
+        "command": "cursorLineEndSelect"
+    }
+]
